@@ -1,0 +1,106 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Art Class",
+        "description": "For people who love arts and want to master.",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "",
+        "category": "Arts",
+        "thumbnail": "src/assets/2.png",
+        "images": [
+          "src/assets/2.png"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Dance Class",
+        "description": "For people who wants to master their dancing skills.",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "",
+        "category": "Dance",
+        "thumbnail": "src/assets/3.png",
+        "images": [
+          "src/assets/3.png"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Calligraphy Class",
+        "description": "A form of art where you express yourself.",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "",
+        "category": "Arts",
+        "thumbnail": "src/assets/4.png",
+        "images": [
+          "src/assets/4.png"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Swimming Class",
+        "description": "Master swimming with our expert trainers",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "",
+        "category": "Fitness",
+        "thumbnail": "src/assets/5.png",
+        "images": [
+          "src/assets/5.png"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Martial Arts",
+        "description": "Master ancient martial arts techniques with our experts",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "",
+        "category": "Fitness",
+        "thumbnail": "src/assets/6.png",
+        "images": [
+          "src/assets/6.png"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Yoga Classes",
+        "description": "Peace and serenity comes hand in hand with our Yoga Classes",
+        "price": 1749,
+        "discountPercentage": 11.02,
+        "rating": 4.57,
+        "stock": 83,
+        "brand": "",
+        "category": "Fitness",
+        "thumbnail": "src/assets/7.png",
+        "images": [
+          "src/assets/7.png"
+        ]
+      }],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
